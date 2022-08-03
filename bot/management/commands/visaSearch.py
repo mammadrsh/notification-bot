@@ -3,7 +3,7 @@ import requests
 import telegram
 import time
 
-bot = telegram.Bot("1958727993:AAGzGXBxDjnd2lqSbMtnrGjbT-PTO_XaJa8")
+bot = telegram.Bot("")
 
 class Command(BaseCommand):
     help = 'Searching for Visa appointment!'
